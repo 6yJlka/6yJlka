@@ -26,4 +26,5 @@ project moderation, donations, comments, analytics and administrative tools.
 
 ## Contacts
 
+- Email: [dimadonskikhwork@gmail.com](mailto:dimadonskikhwork@gmail.com)
 - [Telegram](https://t.me/byJlkaCnoBuDJLoM)
