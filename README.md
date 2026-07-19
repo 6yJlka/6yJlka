@@ -1,16 +1,29 @@
-## Hi there 👋
+# Dmitry Donskikh
 
-<!--
-**6yJlka/6yJlka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Backend Developer with commercial experience at T-Bank.
 
-Here are some ideas to get you started:
+Graduate of BMSTU and Yandex Backend Development School.  
+I develop backend applications using Java, Spring Boot, PostgreSQL and Kafka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+- Java, Kotlin
+- Spring Boot, Spring Web, Spring Data JPA, Spring Security
+- PostgreSQL, Hibernate, Flyway
+- Kafka, REST API
+- Docker, Docker Compose, GitHub Actions
+- JUnit, Mockito
+
+## Featured project
+
+### CrowdFunding
+
+Crowdfunding platform with JWT authentication, role-based access,
+project moderation, donations, comments, analytics and administrative tools.
+
+- [Source code](https://github.com/6yJlka/CrowdFunding)
+- [Live demo](https://riseupapp.tech/)
+
+## Contacts
+
+- [Telegram](https://t.me/byJlkaCnoBuDJLoM)
