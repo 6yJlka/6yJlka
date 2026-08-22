@@ -1,30 +1,33 @@
 # Dmitry Donskikh
 
-Junior Java Backend Developer with commercial experience at T-Bank.
+Junior Java Backend Developer with commercial Java development experience at T-Bank.
 
-Graduate of BMSTU and Yandex Backend Development School.  
-I develop backend applications using Java, Spring Boot, PostgreSQL and Kafka.
+Graduate of BMSTU and Yandex Backend Development School.
+I develop backend applications using Java, Spring Boot, PostgreSQL, Kafka and related technologies.
 
 ## Tech stack
 
-- Java, Kotlin
-- Spring Boot, Spring Web, Spring Data JPA, Spring Security
-- PostgreSQL, Hibernate, Flyway
-- Kafka, REST API
-- Docker, Docker Compose, GitHub Actions
-- JUnit, Mockito
+* **Languages:** Java, Kotlin
+* **Backend:** Spring Boot, Spring Web, Spring Data JPA, Spring Security
+* **Databases:** PostgreSQL, Hibernate, Flyway
+* **Integration:** Apache Kafka, REST API, Microservices
+* **DevOps:** Docker, Docker Compose, Kubernetes, GitHub Actions
+* **Testing:** JUnit, Mockito
+* **Tools:** Git, Gradle
 
 ## Featured project
 
 ### CrowdFunding
 
-Crowdfunding platform with JWT authentication, role-based access,
-project moderation, donations, comments, analytics and administrative tools.
+Crowdfunding platform built with Java 21 and Spring Boot with JWT authentication, role-based access, project moderation, donations, comments, analytics and administrative tools.
 
-- [Source code](https://github.com/6yJlka/CrowdFunding)
-- [Live demo](https://riseupapp.tech/)
+The application is containerized with Docker and deployed to a remote server using an automated CI/CD pipeline.
+
+* [Source code](https://github.com/6yJlka/CrowdFunding)
+* [Live demo](https://riseupapp.tech/)
 
 ## Contacts
 
-- [dimadonskikhwork@gmail.com](mailto:dimadonskikhwork@gmail.com)
-- [Telegram](https://t.me/byJlkaCnoBuDJLoM)
+* [LinkedIn](https://www.linkedin.com/in/dmitry-donskikh)
+* [Telegram](https://t.me/byJlkaCnoBuDJLoM)
+* [Email](mailto:dimadonskikhwork@gmail.com)
