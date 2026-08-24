@@ -28,6 +28,5 @@ The application is containerized with Docker and deployed to a remote server usi
 
 ## Contacts
 
-* [LinkedIn](https://www.linkedin.com/in/dmitry-donskikh)
 * [Telegram](https://t.me/byJlkaCnoBuDJLoM)
 * [Email](mailto:dimadonskikhwork@gmail.com)
