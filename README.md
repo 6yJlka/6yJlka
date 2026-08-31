@@ -9,8 +9,8 @@ BMSTU master's student, graduate of Yandex Backend Development School. I develop
 * **Languages:** Java, Kotlin
 * **Backend:** Spring Boot, Spring Web, Spring Data JPA, Spring Security
 * **Databases:** PostgreSQL, Hibernate, Flyway
-* **Integration:** Apache Kafka, REST API, Microservices
-* **DevOps:** Docker, Docker Compose, Kubernetes, GitHub Actions
+* **Integration:** Apache Kafka, REST API
+* **DevOps:** Docker, Docker Compose, GitHub Actions
 * **Testing:** JUnit, Mockito
 * **Tools:** Git, Gradle
 
