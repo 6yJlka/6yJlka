@@ -1,9 +1,8 @@
 # Dmitry Donskikh
 
-Junior Java Backend Developer with commercial Java development experience at T-Bank.
+Java Backend Developer with commercial experience at T-Bank.
 
-Graduate of BMSTU and Yandex Backend Development School.
-I develop backend applications using Java, Spring Boot, PostgreSQL, Kafka and related technologies.
+BMSTU master's student, graduate of Yandex Backend Development School. I develop backend applications using Java, Spring Boot, PostgreSQL, Kafka and related technologies.
 
 ## Tech stack
 
